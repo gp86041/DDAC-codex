@@ -1,5 +1,5 @@
 ##created by Ge Pu, gp86@drexel.edu
-
+##this code computes traffic through tomtom traffic api
 urlcreate<-function(p1,p2,pr1,pr2,pr3,pr4,pr5,pr6,pr7,pr8,pr9,pr10)
 {
   ch1<-'https://api.tomtom.com/lbs/services/route/3/'
